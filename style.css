@@ -1,0 +1,22 @@
+@charset "UTF-8";
+ul {
+    list-style-type: square; 
+    font-family: fantasy;
+    color: blue; 
+}
+ol {
+    list-style-type: inherit; 
+    font-family: fantasy;
+    color: red;
+}
+ul ul {
+    list-style-type: lower-roman; 
+    font-family: fantasy; 
+    color: green;
+} 
+h1 {
+font-family: cursive; 
+}
+h2 {
+    font-family: cursive;
+} 
